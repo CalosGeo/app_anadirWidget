@@ -1,0 +1,8 @@
+{
+  "widgetName": "HTML",
+  "inPanelVar": {
+    "params": {
+      "htmlCode": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <title>Ejercicio 4</title>\n  </head>\n  <body>\n    <p style=\"font-weight: bold\">Esto es una negrita.</p>\n    <p style=\"font-style: italic\">Esto en cursiva.</p>\n    <p style=\"text-decoration: underline\">Esto subrayado.</p>\n    <p style=\"font-size: 26px\">Letra grande.</p>\n    <p style=\"font-size: 10px\">Letra pequeña.</p>\n    <p style=\"color: Blue\">Esta frase en azul.</p>\n    <p style=\"background-color: red\">Esta frase tendrá el fondo rojo.</p>\n  </body>\n</html>\n"
+    }
+  }
+}
